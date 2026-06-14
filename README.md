@@ -27,7 +27,7 @@ The goal is to uncover insights into logistics efficiency, freight costs, lead t
 - `SCMS_Delivery_Analysis_Project.ipynb` → Main Jupyter Notebook
 - `SCMS_Delivery_Analysis_Project_updated.docx` → Full project documentation
 - `scms_clean_query.sql` → SQL data cleaning script
-- `SCMS_Delivery_History_data.csv` → Original dataset (if included)
+- `SCMS_Delivery_History_data.csv` → Original dataset
 
 ## How to Run
 ```bash
